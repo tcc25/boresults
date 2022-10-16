@@ -1,5 +1,4 @@
-bs4
-re
+beautifulsoup4
 requests
 pandas
 qgrid
