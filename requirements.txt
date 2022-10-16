@@ -1,0 +1,8 @@
+bs4
+re
+requests
+pandas
+qgrid
+ipywidgets
+ipydatagrid
+numpy
