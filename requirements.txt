@@ -6,3 +6,4 @@ qgrid
 ipywidgets
 ipydatagrid
 numpy
+voila
